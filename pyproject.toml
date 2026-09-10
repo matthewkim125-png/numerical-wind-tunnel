@@ -5,7 +5,7 @@ build-backend = "setuptools.build_meta"
 [project]
 name = "numerical-wind-tunnel"
 version = "0.1.0"
-description = "A beginner-built, explainable two-dimensional lattice-Boltzmann solver"
+description = "A two-dimensional D2Q9 lattice-Boltzmann solver in Python and NumPy"
 readme = "README.md"
 requires-python = ">=3.12"
 dependencies = ["numpy>=1.26"]
